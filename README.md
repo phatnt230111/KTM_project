@@ -3,7 +3,7 @@
 1. Trần Nguyên Anh
 2. Trần Đức Thịnh
 3. Nguyễn Tấn Phát
-4. Lê Nguyễn Gia Phúc
+4. Lê Nguyễn Gia Phúc (leader)
 
 ## Giới Thiệu Dự Án
 - Dự án nhằm mục đích triển khai và tự động hóa hạ tầng ảo hóa VMware vSphere tại môi trường lab của nhóm. Chúng tôi sử dụng công cụ Terraform và Git để xây dựng một môi trường quản lý mã nguồn và tự động hóa việc triển khai máy chủ vCenter và các máy ảo trên đó.
